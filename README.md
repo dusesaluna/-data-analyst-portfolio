@@ -6,3 +6,5 @@ Data-analyst portfolio · Python, SQL, dashboards · finance &amp; e-commerce ca
 |---------|------|
 | Gold Price Analysis | [Open notebook](notebooks/gold_analysis_yahoof_collect.ipynb) |
 | Tesla Stock Explorer | [Open notebook](notebooks/TSLA_project.ipynb) |
+| Gold Price Analysis | [Open reports](reports/GoldAnalysis.docx) |
+| Tesla Stock Explorer | [Open reports](reports/TeslaStockAnalysis.docx) |
